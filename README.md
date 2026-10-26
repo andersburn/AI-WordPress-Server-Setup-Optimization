@@ -4,6 +4,8 @@ An AI-driven setup guide for turning a **fresh Linux server** into a fast, secur
 
 This project is designed for a server you **already own or rent**, whether it is a VPS, dedicated machine, or a computer running at home. It is **not** a hosting-provider comparison or hardware shopping guide.
 
+Contributions are welcome! If you encounter any issues or find ways to improve the prompt, feel free to submit a pull request to make it even better for everyone.
+
 ## What it covers
 
 - **Server discovery:** Inspect the operating system, CPU, RAM, storage, network, and available resources over SSH before choosing settings.
